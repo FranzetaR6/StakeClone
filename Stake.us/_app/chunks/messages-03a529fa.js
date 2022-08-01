@@ -1,0 +1,1 @@
+import{a7 as a}from"./vendor-202ba1b8.js";var i={winChance:a._("Win Chance"),multiplierTarget:a._("Target Multiplier"),riskLabel:a._("Risk"),low:a._("Low"),medium:a._("Medium"),high:a._("High"),classic:a._("Classic"),rowsLabel:a._("Rows"),chance:a._("Chance")};export{i as m};
