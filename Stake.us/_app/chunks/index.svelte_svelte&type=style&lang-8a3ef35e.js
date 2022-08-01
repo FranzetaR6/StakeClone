@@ -1,0 +1,1 @@
+import{a7 as e}from"./vendor-202ba1b8.js";var a={inPlay:e._("In Play"),view:e._("Display in fiat"),hideZeroBalances:e._("Hide zero balances"),crypto:e._("Crypto"),fiat:e._("Banking"),sweeps:e._("Sweeps"),currency:e._("Currency")};export{a as m};

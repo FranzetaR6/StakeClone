@@ -1,0 +1,1 @@
+import{r as s}from"./singletons-4b6b0cdf.js";const c=s,g=u;async function u(o,t){return c.goto(o,t,[])}const a=(o,t)=>new Promise((n,e)=>{setTimeout(()=>{g(o,t).then(r=>n(r)).catch(r=>e(r))},0)});export{a as g};
