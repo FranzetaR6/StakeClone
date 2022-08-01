@@ -1,0 +1,46 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 01 Aug 2022 18:38:03 at https://stake.us/? +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://stake.us/? -O1 "C:\My Web Sites\Stake clown" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:42:10	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-lucky-numbers-x20 (from https://stake.us/casino/group/scratch-cards)
+18:42:10	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-lucky-scratch (from https://stake.us/casino/group/scratch-cards)
+18:42:10	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-lucky-shot (from https://stake.us/casino/group/scratch-cards)
+18:42:10	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-prince-treasure (from https://stake.us/casino/group/scratch-cards)
+18:42:10	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-queen-treasure (from https://stake.us/casino/group/scratch-cards)
+18:42:10	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-rat-riches (from https://stake.us/casino/group/scratch-cards)
+18:42:10	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-ruby-rush (from https://stake.us/casino/group/scratch-cards)
+18:42:10	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-scary-spooky-scratchy (from https://stake.us/casino/group/scratch-cards)
+18:42:10	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-scratch-a-million (from https://stake.us/casino/group/scratch-cards)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/promotions?raceId=1322c15c-1e58-4d43-8eaf-fb7e42593dff&modal=race (from https://stake.us/promotions/promotion/races)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-aztec-twist (from https://stake.us/casino/group/hacksaw-gaming)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-cubes (from https://stake.us/casino/group/hacksaw-gaming)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-rocket-reels (from https://stake.us/casino/group/hacksaw-gaming)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-the-respinners (from https://stake.us/casino/group/hacksaw-gaming)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-xpander (from https://stake.us/casino/group/hacksaw-gaming)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-hop-n-pop (from https://stake.us/casino/group/hacksaw-gaming)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-stick-em (from https://stake.us/casino/group/hacksaw-gaming)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-tasty-treats (from https://stake.us/casino/group/hacksaw-gaming)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-cash-compass (from https://stake.us/casino/group/hacksaw-gaming)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-frutz (from https://stake.us/casino/group/hacksaw-gaming)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-harvest-wilds (from https://stake.us/casino/group/hacksaw-gaming)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-mystery-motel (from https://stake.us/casino/group/hacksaw-gaming)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-om-nom (from https://stake.us/casino/group/hacksaw-gaming)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-miami-multiplier (from https://stake.us/casino/group/hacksaw-gaming)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-let-it-snow (from https://stake.us/casino/group/hacksaw-gaming)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-cash-quest (from https://stake.us/casino/group/hacksaw-gaming)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-the-bomb (from https://stake.us/casino/group/hacksaw-gaming)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/hacksaw-born-wild (from https://stake.us/casino/group/hacksaw-gaming)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/pragmatic-play-buffalo-king (from https://stake.us/casino/group/pragmatic-play)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/pragmatic-play-rock-vegas (from https://stake.us/casino/group/pragmatic-play)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/pragmatic-play-starz-megaways (from https://stake.us/casino/group/pragmatic-play)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/pragmatic-play-the-hand-of-midas (from https://stake.us/casino/group/pragmatic-play)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/games/pragmatic-play-chicken-drop (from https://stake.us/casino/group/pragmatic-play)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/group/trending (from https://stake.us/casino/games/tome-of-life)
+18:42:11	Error: 	"Forbidden" (403) at link https://stake.us/casino/group/recommended-slots (from https://stake.us/casino/games/pragmatic-play-sweet-bonanza)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 8 seconds : 757 links scanned, 720 files written (68965266 bytes overall) [63728195 bytes received at 256968 bytes/sec], 7516526 bytes transferred using HTTP compression in 365 files, ratio 24%, 31.6 requests per connection
+(35 errors, 0 warnings, 0 messages)
